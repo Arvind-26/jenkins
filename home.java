@@ -1,4 +1,1 @@
-public class home{
-	public static void main(String []args){
-		System.out.println("hello Worlddd");
-}}
+public class home{public static void main(String []args){System.out.println("hello jenkinsssssssss");}}
